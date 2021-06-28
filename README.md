@@ -3,8 +3,6 @@
 ## Author
 Teddy mburu
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_83322863_stock-vector-photo-studio-logo-design-template-eps-10.html&psig=AOvVaw1UXMEc6TnsK0geIPaU6j9u&ust=1624954464059000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjUhJ_xufECFQAAAAAdAAAAABAD)
-
 
 ## Description
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
